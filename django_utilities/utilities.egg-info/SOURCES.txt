@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+utilities/__init__.py
+utilities/admin.py
+utilities/apps.py
+utilities/models.py
+utilities/tests.py
+utilities/views.py
+utilities.egg-info/PKG-INFO
+utilities.egg-info/SOURCES.txt
+utilities.egg-info/dependency_links.txt
+utilities.egg-info/top_level.txt
+utilities/migrations/__init__.py
